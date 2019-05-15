@@ -7,7 +7,7 @@ import java.util.Set;
 /**
  * Created by jt on 5/16/17.
  */
-
+//emres set
 public class Author {
 
     private Long id;
